@@ -27,4 +27,5 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 'Pop, post-disco, funk, rock', 51.2
        ('Pink Floyd', 'The Wall', 1979, 'Progressive rock', 18.9),
        ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', 1967, 'Rock', 18.3),
        ('Michael Jackson', 'Dangerous', 1991, 'New jack swing, R&B and pop', 17.0),
-       ('The Beatles', 'Abbey Road', 1969, 'Rock', 16.9);
+       ('The Beatles', 'Abbey Road', 1969, 'Rock', 16.9),
+       ('Nirvana', 'Nevermind', 1991, 'Grunge', 17.8 )
