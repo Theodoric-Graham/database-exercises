@@ -1,3 +1,4 @@
+TRUNCATE albums;
 INSERT INTO albums (artist, name, release_date, genre, sales)
 VALUES ('Michael Jackson', 'Thriller', 1982, 'Pop, post-disco, funk, rock', 51.2),
        ('AC/DC', 'Back in Black', 1980, 'Hard rock', 30.1),
