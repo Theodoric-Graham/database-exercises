@@ -22,6 +22,13 @@ WHERE emp_no IN (
     FROM dept_manager
     WHERE to_date = '9999-01-01'
 
-) AND gender = 'F'
+) AND gender = 'F';
+
+-- BONUS
+-- Find all the department names that currently have female managers.
+
+-- Find the first and last name of the employee with the highest salary.
+
+
 
 
